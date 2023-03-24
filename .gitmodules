@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "startupmsg"]
+	path = startupmsg
+	url = https://github.com/cran/startupmsg
+	shallow = true
+	registered = true
